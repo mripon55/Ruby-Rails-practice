@@ -3,7 +3,11 @@
 one:
   title: MyString
   description: MyText
+  created_at: 2016-01-26 03:20:12
+  updated_at: 2016-01-26 03:20:12
 
 two:
   title: MyString
   description: MyText
+  created_at: 2016-01-26 03:20:12
+  updated_at: 2016-01-26 03:20:12
